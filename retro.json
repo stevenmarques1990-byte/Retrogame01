@@ -1,0 +1,68 @@
+{
+  "Gameboy": [
+    { "name": "Pokémon Rouge", "owned": false, "img": "https://upload.wikimedia.org/wikipedia/en/3/39/Pokemon_Rouge.png" },
+    { "name": "Pokémon Bleu", "owned": false, "img": "https://upload.wikimedia.org/wikipedia/en/8/88/Pokemon_Bleu.png" },
+    { "name": "Tetris", "owned": false, "img": "https://upload.wikimedia.org/wikipedia/en/1/1b/Tetris_Gameboy.png" }
+    /* ... ajoute les autres jeux Gameboy ici ... */
+  ],
+
+  "Sega Mega Drive": [
+    { "name": "Sonic the Hedgehog", "owned": false, "img": "https://upload.wikimedia.org/wikipedia/en/5/5e/Sonic_the_Hedgehog_box.jpg" },
+    { "name": "Sonic 2", "owned": false, "img": "https://upload.wikimedia.org/wikipedia/en/f/fc/Sonic_the_Hedgehog_2_MD_box.jpg" }
+    /* ... autres jeux Mega Drive ... */
+  ],
+
+  "PS1": [
+    { "name": "Final Fantasy VII", "owned": false, "img": "https://upload.wikimedia.org/wikipedia/en/6/6b/Final_Fantasy_VII_Boxart.jpg" },
+    { "name": "Metal Gear Solid", "owned": false, "img": "https://upload.wikimedia.org/wikipedia/en/8/8b/Metal_Gear_Solid_cover.jpg" }
+    /* ... autres jeux PS1 ... */
+  ],
+
+  "PS2": [
+    { "name": "Grand Theft Auto: San Andreas", "owned": false, "img": "https://upload.wikimedia.org/wikipedia/en/4/44/GTA_San_Andreas_box_art.jpg" },
+    { "name": "Final Fantasy X", "owned": false, "img": "https://upload.wikimedia.org/wikipedia/en/6/66/Final_Fantasy_X_cover_art.jpg" }
+    /* ... autres jeux PS2 ... */
+  ],
+
+  "PS3": [
+    { "name": "The Last of Us", "owned": false, "img": "https://upload.wikimedia.org/wikipedia/en/f/fb/The_Last_of_Us_cover.jpg" },
+    { "name": "Uncharted: Drake's Fortune", "owned": false, "img": "https://upload.wikimedia.org/wikipedia/en/f/fd/Uncharted_Drake%27s_Fortune.jpg" }
+    /* ... autres jeux PS3 ... */
+  ],
+
+  "PSP": [
+    { "name": "God of War: Chains of Olympus", "owned": false, "img": "https://upload.wikimedia.org/wikipedia/en/f/fc/God_of_War_Chains_of_Olympus_cover.jpg" },
+    { "name": "Grand Theft Auto: Liberty City Stories", "owned": false, "img": "https://upload.wikimedia.org/wikipedia/en/2/25/GTA_LCS_cover.jpg" }
+    /* ... autres jeux PSP ... */
+  ],
+
+  "Xbox 360": [
+    { "name": "Halo 3", "owned": false, "img": "https://upload.wikimedia.org/wikipedia/en/2/2f/Halo3box.jpg" },
+    { "name": "Gears of War", "owned": false, "img": "https://upload.wikimedia.org/wikipedia/en/5/5a/Gears_of_War_box.jpg" }
+    /* ... autres jeux Xbox 360 ... */
+  ],
+
+  "NES": [
+    { "name": "Super Mario Bros.", "owned": false, "img": "https://upload.wikimedia.org/wikipedia/en/0/03/Super_Mario_Bros._box.png" },
+    { "name": "The Legend of Zelda", "owned": false, "img": "https://upload.wikimedia.org/wikipedia/en/9/9b/Legend_of_Zelda_Box.png" }
+    /* ... autres jeux NES ... */
+  ],
+
+  "N64": [
+    { "name": "Super Mario 64", "owned": false, "img": "https://upload.wikimedia.org/wikipedia/en/4/46/Super_Mario_64_box.png" },
+    { "name": "The Legend of Zelda: Ocarina of Time", "owned": false, "img": "https://upload.wikimedia.org/wikipedia/en/7/7e/Zelda_Ocarina_of_Time.png" }
+    /* ... autres jeux N64 ... */
+  ],
+
+  "GameCube": [
+    { "name": "Super Smash Bros. Melee", "owned": false, "img": "https://upload.wikimedia.org/wikipedia/en/b/b2/SSBMcover.jpg" },
+    { "name": "The Legend of Zelda: The Wind Waker", "owned": false, "img": "https://upload.wikimedia.org/wikipedia/en/4/43/Zelda_Wind_Waker_Box.png" }
+    /* ... autres jeux GameCube ... */
+  ],
+
+  "GBA": [
+    { "name": "Pokémon Ruby", "owned": false, "img": "https://upload.wikimedia.org/wikipedia/en/9/9d/Pokemon_Ruby_box.png" },
+    { "name": "The Legend of Zelda: The Minish Cap", "owned": false, "img": "https://upload.wikimedia.org/wikipedia/en/4/41/Zelda_Minsh_Cap_cover.png" }
+    /* ... autres jeux GBA ... */
+  ]
+}
